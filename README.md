@@ -5,9 +5,9 @@
 > "不要在干草堆里找那根针，直接买下整个干草堆。" ------ 约翰·博格
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将约翰·博格的指数基金哲学、低成本投资原则与长期持有信念蒸馏为 Claude Code 可调用的 skill，让 AI 用先锋集团创始人的朴素智慧帮你构建简单有效的投资方案。**
+**将约翰·博格的指数基金哲学、低成本投资原则与长期持有信念蒸馏为 Claude Code 等 Agent Skills 客户端可调用的 skill，让 AI 用先锋集团创始人的朴素智慧帮你构建简单有效的投资方案。**
 
 </div>
 
@@ -83,7 +83,7 @@ npx skills add nuwa-skills/bogle-skill
 
 ```
 bogle-skill/
-├── SKILL.md                        # Claude Code skill 定义文件
+├── SKILL.md                        # Agent Skill 定义文件（Claude Code 等客户端读取）
 ├── README.md                       # 本文件
 ├── LICENSE                         # MIT 许可证
 ├── examples/
